@@ -97,9 +97,11 @@ Using a time series model may be worth exploring here as there is some seasonali
 Presentation slides can be found [here]()
 
 # Repository Structure
+'''
 ├── data
 ├── images
 ├── .gitignore
 ├── README.md
 ├── presentation.pdf
 └── notebook.ipynb
+'''
