@@ -42,8 +42,8 @@ As a first baseline and simple model, a linear regression model will be used. To
 
 Features are in different units and therefore in very different scales. Scaling the data should improve results. As noted before all features do not appear to be perfectly linear. Using polynomial features should help with this as well.
 
-RMSE on Training Data: 742.04
-RMSE on Test Data: 720.42
+RMSE on Training Data: 742.04<br>
+RMSE on Test Data: 720.42<br>
 Cross Validation RMSE: 762.37
 
 Performance is okay with the baseline model but it appears the model is too simple. There appears to be some aspects and features not being captured in this model. Different types of models that can handle more complex and nonlinear data will be tested here. 
