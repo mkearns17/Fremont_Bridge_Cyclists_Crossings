@@ -54,8 +54,8 @@ An article posted by PubMed Central shows a study on using Machine Learning to p
 
 After optimizing the parameters of Random Forest Regressor Model using GridsearchCV, the following error scores were calculated:
 
-Train RMSE: 711.93
-Test RMSE: 713.97
+Train RMSE: 711.93<br>
+Test RMSE: 713.97<br>
 Val RMSE: 690.03
 
 TThe Random Forest model is performing better than the Linear Regression Model. It is better at picking up the nonlinearity in the data. After using GridsearchCV, the train and test model have very close RMSE values. This shows the model is not overfitting or underfitting too much. The RMSE score on the validation set also shows that the parameters selected are performaing similary and are appropriately chosen. 
@@ -66,8 +66,8 @@ Next XGBoost model will be used to see if it can performa any better than the Ra
 
 Similar to before, the parameters of the XGBoost Regressor model was optimized using GridsearchCV, the following error scores were calculated:
 
-Train RMSE: 705.89
-Test RMSE: 701.52
+Train RMSE: 705.89<br>
+Test RMSE: 701.52<br>
 Val RMSE: 690.84
 
 # Final Model
