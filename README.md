@@ -94,7 +94,7 @@ Next steps would be to incorparate additional features into the model and expand
 Using a time series model may be worth exploring here as there is some seasonality factors to the data. 
 
 # Presentation
-Presentation slides can be found [here]()
+Presentation slides can be found [here](https://github.com/mkearns17/Fremont_Bridge_Cyclists_Crossings/blob/main/presentation.pdf)
 
 # Repository Structure
 ```
